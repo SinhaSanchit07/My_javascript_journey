@@ -40,5 +40,34 @@ null=>0
 
 /**********************************************operation********************************************************************* */
 
+let value1 = 3
+let negval=-value1
+// console.log(negval)
+
+console.log(2+2)
+console.log(2-2)
+console.log(2*3)
+console.log(10/5)
+console.log(2**3)
+console.log(10%3)
+
+let str1="hello"
+let str2=" Duniya!!"
+
+let str3= str1 + str2
+console.log(str3)
 
 
+console.log("1"+2+1)
+console.log("1"+2)
+console.log(1+2+"2")
+
+console.log( (3 + 4) * 5 % 3);
+
+console.log(+true)
+console.log(+"")
+
+
+let gamecounter=100;
+console.log(++gamecounter+5)
+// console.log((gameconter++)+5)
