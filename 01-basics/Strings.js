@@ -25,11 +25,11 @@ console.log(anotherString);
 // console.log(str1);
 // console.log(str1.trim());
 
-// const url = "https://hitesh.com/hitesh%20choudhary"
+const url = "https://hitesh.com/hitesh%20choudhary"
 
-// console.log(url.replace("%20","-"));
+console.log(url.replace("%20","-"));
 
-// console.log(url.includes('sundar'))
+console.log(url.includes('sundar'))
 
 // console.log(gamename.split("-"));
 
